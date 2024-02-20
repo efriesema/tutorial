@@ -1,4 +1,4 @@
-## Recipice for Chocolate Cake
+## Recipe for Chocolate Cake
 
 Yellow cake is delicious!  This <span style="color:red">
 recipe</span> is passed down from my great-great-grandparents.
