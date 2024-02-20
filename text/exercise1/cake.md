@@ -6,8 +6,7 @@ recipe</span> is passed down from my great-great-grandparents.
 My great-great-<span style="color:red">
 grandparents
 </span> lived in Venice. They enjoyed travelling on the canals. 
-Did you know Venice became Austrian territory when Napoleon signed the Treaty of Campo 
-Formio on 12 October 1797? I did not.
+
 
 ### Directions
 
