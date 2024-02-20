@@ -31,6 +31,6 @@ Stir in vanilla
 
 Pour cake batter into the prepared pan.
 
-Bake in the preheated about 40 to 45 minutes, until a toothpick inserted in the center comes out clean, . 
+Bake in the preheated oven for about 40 to 45 minutes, until a toothpick inserted in the center comes out clean. 
 
 
