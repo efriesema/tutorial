@@ -3,10 +3,6 @@
 Yellow cake is delicious!  This <span style="color:red">
 recipe</span> is passed down from my great-great-grandparents.
 
-My great-great-<span style="color:red">
-grandparents
-</span> lived in Venice. They enjoyed travelling on the canals. 
-
 
 ### Directions
 
